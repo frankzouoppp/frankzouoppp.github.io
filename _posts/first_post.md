@@ -1,4 +1,4 @@
 # Hello world
 
 This is my first post
-![Image description](images/logo.jpg)
+![UQ](images/the-university-of-queensland-logo.png)
